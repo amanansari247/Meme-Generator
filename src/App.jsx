@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../components/Footer'
 import Meme from '../components/Meme'
 import Navbar from '../components/Navbar'
 
@@ -7,6 +8,7 @@ export default function App() {
     <div>
       <Navbar />
       <Meme />
+      <Footer/>
     </div>
   )
 }
