@@ -5,6 +5,11 @@ background-color: aliceblue;
 main{
   padding: 20px;
 }
+.footer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
 .nav-head{
   display: flex;
   align-items: center;
@@ -91,8 +96,4 @@ main{
 .top {
   top: 0;
 }
-.footer{
-  display: flex;
-  justify-content: center;
-  text-align: center;
-}
+
