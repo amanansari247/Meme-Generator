@@ -91,3 +91,8 @@ main{
 .top {
   top: 0;
 }
+.footer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
